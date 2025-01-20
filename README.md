@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Este es un repositorio creado en la nube con el archivo readme agregado
+# PrepCourse-KRUZZITO
+Este es un archivo editado y subido a github desde la terminal
